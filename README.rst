@@ -31,7 +31,7 @@ TMenu Game Cheat
 Key Features
 ------------
 
-.. image:: https://placehold.co/600x400/png
+.. image:: assets/features.gif
    :alt: Features Demo
    :align: center
    :width: 600px
@@ -88,8 +88,8 @@ Setup
 
    # Alternative method (for developers)
    # Build from source using Visual Studio
-   git clone https://yourrepository.com/TMenuGameCheat.git
-   cd TMenuGameCheat
+   gh repo clone RS-Dev06/THeck
+   cd THeck
    # Open MenuProtoOne.sln in Visual Studio and build
 
 -----------------
@@ -109,8 +109,8 @@ Development Environment Setup
 
    .. code-block:: bash
 
-      git clone https://yourrepository.com/TMenuGameCheat.git
-      cd TMenuGameCheat
+      gh repo clone RS-Dev06/THeck
+      cd THeck
 
 Building the Project
 ===================
@@ -132,7 +132,7 @@ Building the Project
 .. code-block:: bash
 
    # Navigate to project directory
-   cd path\to\TMenuGameCheat
+   cd path\to\THeck
    
    # For Debug build
    msbuild MenuProtoOne.sln /p:Configuration=Debug /p:Platform=x64
