@@ -16,9 +16,9 @@ TMenu Game Cheat
    :align: center
    :width: 40px
 
-|
 
 **TMenu** is a powerful game memory manipulation tool built with ImGui and DirectX9, allowing you to enhance your gaming experience through various memory modifications.
+|
 
 .. contents:: Table of Contents
    :depth: 2
