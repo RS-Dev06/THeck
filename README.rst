@@ -31,7 +31,7 @@ TMenu Game Cheat
 Key Features
 ------------
 
-.. image:: docs/images/features_demo.gif
+.. image:: https://placehold.co/600x400/png
    :alt: Features Demo
    :align: center
    :width: 600px
@@ -212,7 +212,7 @@ Basic Controls
 - **END** - Exit application completely
 - **HOME** - Reset all modifications to default values
 
-.. image:: docs/images/keyboard_controls.gif
+.. image:: assets/keyboardDemo.gif
    :alt: Keyboard Controls Demo
    :align: center
    :width: 600px
@@ -222,7 +222,7 @@ Basic Controls
 Authentication
 =============
 
-.. image:: docs/images/login_screen.gif
+.. image:: assets/login.gif
    :alt: Login Screen Demo
    :align: center
    :width: 600px
@@ -237,7 +237,7 @@ Authentication
 Memory Manipulation
 ==================
 
-.. image:: docs/images/memory_manipulation.gif
+.. image:: assets/memory.gif
    :alt: Memory Manipulation Demo
    :align: center
    :width: 600px
@@ -271,7 +271,7 @@ Memory Manipulation
 Player Modifications
 ===================
 
-.. image:: docs/images/player_modifications.gif
+.. image:: assets/playerModification.gif
    :alt: Player Modifications Demo
    :align: center
    :width: 600px
@@ -290,7 +290,7 @@ Player Modifications
 
 **Teleportation System:**
 
-.. image:: docs/images/teleport_system.gif
+.. image:: assets/teleport.gif
    :alt: Teleportation System Demo
    :align: center
    :width: 600px
@@ -310,7 +310,7 @@ Player Modifications
 
 **Defense & Regeneration:**
 
-.. image:: docs/images/defense_regen.gif
+.. image:: assets/statView.gif
    :alt: Defense and Regeneration Demo
    :align: center
    :width: 600px
@@ -328,7 +328,7 @@ Player Modifications
 Inventory Management
 ===================
 
-.. image:: docs/images/inventory_management.gif
+.. image:: assets/inventory.gif
    :alt: Inventory Management Demo
    :align: center
    :width: 600px
@@ -349,7 +349,7 @@ Inventory Management
 
 **Mouse Item Manipulation:**
 
-.. image:: docs/images/mouse_item.gif
+.. image:: assets/mouseInv.gif
    :alt: Mouse Item Manipulation Demo
    :align: center
    :width: 600px
@@ -369,7 +369,7 @@ Inventory Management
 Interface Customization
 ======================
 
-.. image:: docs/images/interface_customization.gif
+.. image:: assets/customization.gif
    :alt: Interface Customization Demo
    :align: center
    :width: 600px
