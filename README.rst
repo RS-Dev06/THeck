@@ -14,7 +14,7 @@ TMenu Game Cheat
 .. image:: assets/icon.png
    :alt: TMenu Logo
    :align: center
-   :width: 400px
+   :width: 40px
 
 |
 
