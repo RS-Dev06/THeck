@@ -11,7 +11,7 @@ TMenu Game Cheat
 
 |
 
-.. image:: docs/images/tmenu_logo.png
+.. image:: assets/icon.png
    :alt: TMenu Logo
    :align: center
    :width: 400px
